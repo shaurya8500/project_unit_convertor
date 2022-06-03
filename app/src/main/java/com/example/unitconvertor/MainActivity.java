@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-        time.setOnClickListener(new View.OnClickListener() {
+        time.setOnClickListener(new View.OnClickListener() { //THIS IS LISTENER
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(MainActivity.this, time.class);
