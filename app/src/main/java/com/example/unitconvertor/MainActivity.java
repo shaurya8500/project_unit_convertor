@@ -1,4 +1,4 @@
-package com.example.unitconvertor;
+package com.example.unitconvertor;   
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.view.menu.ShowableListMenu;
@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-        weight.setOnClickListener(new View.OnClickListener() {
+        weight.setOnClickListener(new View.OnClickListener() {  //listener weight added
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(MainActivity.this,weight.class);
