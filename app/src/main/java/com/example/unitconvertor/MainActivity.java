@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-        length.setOnClickListener(new View.OnClickListener() {
+        length.setOnClickListener(new View.OnClickListener() { //listener length
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(MainActivity.this, length.class);
