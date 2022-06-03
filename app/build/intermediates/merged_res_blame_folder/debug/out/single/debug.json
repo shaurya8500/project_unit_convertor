@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\drawable-v24_rotate.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\drawable-v24\\rotate.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\drawable-v24_temperaturebg.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\drawable-v24\\temperaturebg.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\layout_activity_time.xml.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\layout\\activity_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\drawable-v24_weightbg.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\drawable-v24\\weightbg.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\drawable-v24_weight.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\drawable-v24\\weight.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\layout_activity_area.xml.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\layout\\activity_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\drawable-v24_temperature.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\drawable-v24\\temperature.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\layout-v31_activity_main.xml.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\layout-v31\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\drawable-v24_time.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\drawable-v24\\time.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\drawable-v24_lenght.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\drawable-v24\\lenght.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\drawable-v24_bg1.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\drawable-v24\\bg1.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\drawable-v24_areabg.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\drawable-v24\\areabg.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\drawable-v24_lenghtbg.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\drawable-v24\\lenghtbg.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\layout_activity_currency.xml.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\layout\\activity_currency.xml"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\layout_activity_weight.xml.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\layout\\activity_weight.xml"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\layout_activity_temperature.xml.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\layout\\activity_temperature.xml"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\drawable-v24_timebg.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\drawable-v24\\timebg.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-pngs-20:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\drawable-v24_currencybackground2.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\drawable-v24\\currencybackground2.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\drawable-v24_currencybackground.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\drawable-v24\\currencybackground.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\drawable-v24_currency.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\drawable-v24\\currency.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\drawable-v24_bg.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\drawable-v24\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\layout_activity_length.xml.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\layout\\activity_length.xml"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\drawable-v24_area.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\drawable-v24\\area.png"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-merged_res-25:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HARSHIT\\.gradle\\daemon\\7.3.3\\com.example.unitconvertor.app-main-27:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    }
+]
